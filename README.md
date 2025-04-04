@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 
-- ⚡ Fun fact: im kinda boring
+- ⚡ Fun fact: im kinda boring and really lazy
 
 <!---
 JamJaamm/JamJaamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
